@@ -2,6 +2,9 @@
 <a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
+<a href="#" target="_blank">
+  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+</a>
 
 <h2 align="center">🛠 Công nghệ và Công cụ 🛠</h2>
 <br>
