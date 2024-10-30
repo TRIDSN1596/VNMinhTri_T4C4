@@ -75,30 +75,80 @@
 <br>
 
 <h2 align="center">📖 DỰ ÁN CỦA TÔI: HỆ THỐNG QUẢN LÝ PHÒNG MẠCH 📖</h2>
-<br>
-<p>
-  <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">
-    <strong>☕ [FULL STACK] MERN ADVANCED • Lớp học lập trình nâng cao thực tế để đi làm ✍ | ReactJS, NodeJS, ExpressJS, MongoDB | TrungQuanDev</strong>
-  </a>
-</p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
-<p>
-  <strong>🔗 Video giới thiệu chi tiết: <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">Demo & Review toàn bộ khóa Full Stack MERN Advanced | Học lập trình thực tế để đi làm | TrungQuanDev</a></strong>
-  <br><br>
-  <strong>🔗 Bài viết chi tiết trên blog: <a href="https://trungquandev.com/khoa-hoc-lap-trinh-mern-stack-100-du-an-thuc-te-chat-luong" target="_blank">Tự tin làm chủ kỹ năng lập trình Website với combo kiến thức MERN Stack Nâng Cao đầy đủ từ Front-end cho đến Back-end: ReactJS, NodeJS, ExpressJS, MongoDB...vv</a></strong>
-  <br><br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
-</p>
-<a href="https://youtube.com/@trungquandev" target="_blank">
-  <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-trungquandev-mot-lap-trinh-vien.png" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
-</a>
+# Phòng khám An Tâm - Hệ thống Quản lý Phòng khám
 
+## Giới thiệu
+
+🏥 **Phòng khám An Tâm**, một cơ sở chuyên về y tế, đang phát triển hệ thống quản lý phòng khám nhằm hỗ trợ công tác quản lý và điều hành tại An Tâm Clinic, một phòng khám tư nhân. Phần mềm này tích hợp các chức năng dành riêng cho admin, bác sĩ và bệnh nhân, giúp tối ưu hóa quy trình làm việc và nâng cao trải nghiệm người dùng.
+
+## Mục đích
+
+🎯 Mục đích chính là xây dựng một phần mềm dễ sử dụng, phù hợp với mọi lứa tuổi, cho phép bệnh nhân:
+
+- 📅 Đặt lịch khám cho chính mình hoặc người khác.
+- 👨‍⚕️ Chọn bác sĩ và khung giờ khám mong muốn.
+- ⏳ Tránh việc xếp hàng đợi để đặt lịch và chờ đến lượt khám.
+- 📜 Dễ dàng xem lại lịch sử khám bệnh.
+
+## Tóm tắt Các Chức năng Chính
+
+### 1. Quản lý Người dùng
+- 📝 **Đăng ký, đăng nhập, đăng xuất**
+- 🔄 **Cập nhật thông tin và quản lý tài khoản**
+- 🔑 **Khôi phục tài khoản**
+
+### 2. Quản lý Bệnh nhân
+- 📊 **Xem lịch sử khám bệnh**
+- 📅 **Đặt lịch khám**
+- ❌ **Hủy cuộc hẹn**
+
+### 3. Quản lý Bác sĩ
+- 👩‍⚕️ **Xem thông tin chi tiết bác sĩ**
+- 🏥 **Quản lý bác sĩ**
+
+### 4. Quản lý Chuyên khoa
+- 📚 **Xem trang chi tiết chuyên khoa**
+- 🗂️ **Quản lý chuyên khoa**
+
+### 5. Quản lý Hồ sơ y tế
+- 📁 **Xem hồ sơ bệnh nhân**
+- 💊 **Xem chi tiết đơn thuốc**
+- ✍️ **Tạo và gửi đơn thuốc**
+
+### 6. Thông tin và Tin tức
+- 🏠 **Xem trang chủ**
+- 📰 **Xem trang tin tức**
+- 📢 **Quản lý tin tức**
+
+### 7. Quản lý Khám bệnh
+- 🩺 **Quản lý ca khám bệnh**
+- 📈 **Xem Dashboard tổng quan**
+
+### 8. Quản lý Thuốc
+- 💊 **Quản lý thuốc**
+
+### 9. Hỗ trợ khác
+- 🌐 **Hỗ trợ đa ngôn ngữ**
+
+
+## 💻 Công Nghệ Sử Dụng
+
+### Frontend
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) React.js
+
+### Backend
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) Node.js
+- ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) Express
+
+### Cơ Sở Dữ Liệu
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) MongoDB
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<p><strong>🌟 Chúng tôi tin rằng Hệ thống Quản lý Phòng khám An Tâm sẽ góp phần nâng cao chất lượng dịch vụ y tế và mang lại sự thuận tiện tối đa cho bệnh nhân. Hãy cùng chúng tôi xây dựng một môi trường chăm sóc sức khỏe tốt nhất cho cộng đồng!</strong></p>
 <br>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
-</a>
+📫 Liên Hệ
+Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với chúng tôi qua email: TRIDSN@gmail.com.
+
+
